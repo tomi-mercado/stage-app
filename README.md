@@ -13,4 +13,4 @@ Architects (UK) fan React App to play to be lighting technician of a show of the
 - User authentication
 - Save your own show lights for a song
 
-See deploy here: https://stage-app-n73g169k9-tomi-mercado.vercel.app/
+See deploy here: https://stage-app-tomi-mercado.vercel.app/
