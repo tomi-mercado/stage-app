@@ -1,0 +1,44 @@
+.container_stage {
+  position: relative;
+  height: fit-content;
+  width: 500px;
+  height: 345px;
+}
+
+.alternateTransition {
+  transition: all 500ms;
+}
+
+.screen {
+  background-color: white;
+  height: 225px;
+  position: absolute;
+  width: 400px;
+  left: 55px;
+  top: 65px;
+}
+
+.alternate_screen {
+  background-color: rgb(0, 0, 0);
+}
+
+.stage_img {
+  position: absolute;
+}
+
+.center_globe {
+  position: absolute;
+  left: 205px;
+  top: 122px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: white;
+  opacity: 0.9;
+  box-shadow: 0px 0px 25px 25px black;
+}
+
+.alternate_center_globe {
+  background-color: rgb(0, 0, 0);
+  box-shadow: 0px 0px 25px 25px rgb(255, 255, 255);
+}

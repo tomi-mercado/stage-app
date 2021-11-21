@@ -1,0 +1,33 @@
+.light {
+  border-radius: 50%;
+  position: absolute;
+  background-color: white;
+}
+
+.light_left {
+  width: 16px;
+  height: 21px;
+  box-shadow: 90px 50px 200px 170px #fff;
+  position: absolute;
+  top: 38px;
+  left: 71px;
+  transform: skew(-44deg, -10deg);
+}
+
+.light_center {
+  width: 26px;
+  height: 9px;
+  top: 46px;
+  left: 251px;
+  box-shadow: 0 0 160px 130px #fff;
+  opacity: 0.9;
+}
+
+.light_right {
+  width: 26px;
+  height: 9px;
+  top: 43px;
+  left: 420px;
+  box-shadow: 10px 30px 160px 130px #fff;
+  transform: skew(-10deg, 30deg);
+}
